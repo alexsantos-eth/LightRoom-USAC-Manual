@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/LightRoom-USAC/Manual/static/css/main.22732168.chunk.css",
+    "main.js": "/LightRoom-USAC/Manual/static/js/main.e548cd00.chunk.js",
+    "main.js.map": "/LightRoom-USAC/Manual/static/js/main.e548cd00.chunk.js.map",
+    "runtime-main.js": "/LightRoom-USAC/Manual/static/js/runtime-main.1633b9e9.js",
+    "runtime-main.js.map": "/LightRoom-USAC/Manual/static/js/runtime-main.1633b9e9.js.map",
+    "static/css/2.5a510433.chunk.css": "/LightRoom-USAC/Manual/static/css/2.5a510433.chunk.css",
+    "static/js/2.be65ca1b.chunk.js": "/LightRoom-USAC/Manual/static/js/2.be65ca1b.chunk.js",
+    "static/js/2.be65ca1b.chunk.js.map": "/LightRoom-USAC/Manual/static/js/2.be65ca1b.chunk.js.map",
+    "index.html": "/LightRoom-USAC/Manual/index.html",
+    "precache-manifest.61117f03ada44ee658a8c32ec82aca6e.js": "/LightRoom-USAC/Manual/precache-manifest.61117f03ada44ee658a8c32ec82aca6e.js",
+    "service-worker.js": "/LightRoom-USAC/Manual/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/LightRoom-USAC/Manual/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.22732168.chunk.css.map": "/LightRoom-USAC/Manual/static/css/main.22732168.chunk.css.map",
+    "static/js/2.be65ca1b.chunk.js.LICENSE.txt": "/LightRoom-USAC/Manual/static/js/2.be65ca1b.chunk.js.LICENSE.txt",
+    "static/media/converter.jpg": "/LightRoom-USAC/Manual/static/media/converter.aa14349c.jpg",
+    "static/media/style.css": "/LightRoom-USAC/Manual/static/media/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.d7e60f9d.woff2",
+    "static/media/header-image.png": "/LightRoom-USAC/Manual/static/media/header-image.99df2a28.png",
+    "static/media/header.jpg": "/LightRoom-USAC/Manual/static/media/header.2cc07681.jpg",
+    "static/media/ill.gif": "/LightRoom-USAC/Manual/static/media/ill.2cadfe50.gif",
+    "static/media/login.jpg": "/LightRoom-USAC/Manual/static/media/login.0b4eb4b8.jpg",
+    "static/media/space.gif": "/LightRoom-USAC/Manual/static/media/space.90eeb5ad.gif",
+    "static/media/viewer.jpg": "/LightRoom-USAC/Manual/static/media/viewer.f360eb06.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1633b9e9.js",
+    "static/css/2.5a510433.chunk.css",
+    "static/js/2.be65ca1b.chunk.js",
+    "static/css/main.22732168.chunk.css",
+    "static/js/main.e548cd00.chunk.js"
+  ]
+}
