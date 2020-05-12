@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LightRoom-USAC-Manual/precache-manifest.1d8ad6e335ae056c0c3999a3da64f489.js"
+  "/LightRoom-USAC-Manual/precache-manifest.761b394b705967779400f6789214af35.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LightRoom-USAC-Manual/static/css/main.19906014.chunk.css",
+    "main.css": "/LightRoom-USAC-Manual/static/css/main.00e0c2b5.chunk.css",
     "main.js": "/LightRoom-USAC-Manual/static/js/main.6e89ac30.chunk.js",
     "main.js.map": "/LightRoom-USAC-Manual/static/js/main.6e89ac30.chunk.js.map",
     "runtime-main.js": "/LightRoom-USAC-Manual/static/js/runtime-main.c61bd343.js",
@@ -9,10 +9,10 @@
     "static/js/2.be65ca1b.chunk.js": "/LightRoom-USAC-Manual/static/js/2.be65ca1b.chunk.js",
     "static/js/2.be65ca1b.chunk.js.map": "/LightRoom-USAC-Manual/static/js/2.be65ca1b.chunk.js.map",
     "index.html": "/LightRoom-USAC-Manual/index.html",
-    "precache-manifest.1d8ad6e335ae056c0c3999a3da64f489.js": "/LightRoom-USAC-Manual/precache-manifest.1d8ad6e335ae056c0c3999a3da64f489.js",
+    "precache-manifest.761b394b705967779400f6789214af35.js": "/LightRoom-USAC-Manual/precache-manifest.761b394b705967779400f6789214af35.js",
     "service-worker.js": "/LightRoom-USAC-Manual/service-worker.js",
     "static/css/2.5a510433.chunk.css.map": "/LightRoom-USAC-Manual/static/css/2.5a510433.chunk.css.map",
-    "static/css/main.19906014.chunk.css.map": "/LightRoom-USAC-Manual/static/css/main.19906014.chunk.css.map",
+    "static/css/main.00e0c2b5.chunk.css.map": "/LightRoom-USAC-Manual/static/css/main.00e0c2b5.chunk.css.map",
     "static/js/2.be65ca1b.chunk.js.LICENSE.txt": "/LightRoom-USAC-Manual/static/js/2.be65ca1b.chunk.js.LICENSE.txt",
     "static/media/converter.jpg": "/LightRoom-USAC-Manual/static/media/converter.aa14349c.jpg",
     "static/media/style.css": "/LightRoom-USAC-Manual/static/media/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.d7e60f9d.woff2",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.c61bd343.js",
     "static/css/2.5a510433.chunk.css",
     "static/js/2.be65ca1b.chunk.js",
-    "static/css/main.19906014.chunk.css",
+    "static/css/main.00e0c2b5.chunk.css",
     "static/js/main.6e89ac30.chunk.js"
   ]
 }

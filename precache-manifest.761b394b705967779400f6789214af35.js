@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dde4d21e0643e09065296dcf4237870d",
+    "revision": "69c2e91ee567a901f137a9a7bc542d3e",
     "url": "/LightRoom-USAC-Manual/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LightRoom-USAC-Manual/static/css/2.5a510433.chunk.css"
   },
   {
-    "revision": "96aec1678554be87e269",
-    "url": "/LightRoom-USAC-Manual/static/css/main.19906014.chunk.css"
+    "revision": "fa85c5124b4aa4f716d3",
+    "url": "/LightRoom-USAC-Manual/static/css/main.00e0c2b5.chunk.css"
   },
   {
     "revision": "395fa4a2c48b20593a44",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LightRoom-USAC-Manual/static/js/2.be65ca1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96aec1678554be87e269",
+    "revision": "fa85c5124b4aa4f716d3",
     "url": "/LightRoom-USAC-Manual/static/js/main.6e89ac30.chunk.js"
   },
   {
